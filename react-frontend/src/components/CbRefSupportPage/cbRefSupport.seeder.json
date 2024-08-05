@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Support - Level 1",
+        "description": "support email and whatsapp",
+        "currency": "RM",
+        "unit": "year",
+        "amount": 5732.88,
+        "applicable": "[\"C\",\"O\"]",
+        "currency_code": "MYR",
+        "duration": 1,
+        "image": "../../../assets/icons/app-stack.png"
+    },
+    {
+        "name": "Support - Level 2",
+        "description": "dedicated support service",
+        "currency": "RM",
+        "unit": "year",
+        "amount": 9732.88,
+        "applicable": "[\"C\",\"O\"]",
+        "currency_code": "MYR",
+        "duration": 1,
+        "image": "../../../assets/icons/models.png"
+    },
+    {
+        "name": "Support - Level 3",
+        "description": "custom development service",
+        "currency": "RM",
+        "unit": "year",
+        "amount": 15732.88,
+        "applicable": "[\"C\",\"O\"]",
+        "currency_code": "MYR",
+        "duration": 1
+    }
+]

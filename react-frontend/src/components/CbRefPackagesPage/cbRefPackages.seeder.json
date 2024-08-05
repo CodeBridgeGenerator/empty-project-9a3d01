@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Public",
+        "key": "P",
+        "cost": 0,
+        "currency": "RM",
+        "unit": "/app/year",
+        "display_in_project": true,
+        "display_on_web": true
+    },
+    {
+        "name": "Cloud",
+        "key": "C",
+        "cost": 947.88,
+        "currency": "RM",
+        "unit": "/app/year",
+        "display_in_project": true,
+        "display_on_web": true
+    },
+    {
+        "name": "OnPremis",
+        "key": "O",
+        "cost": 14683.88,
+        "currency": "RM",
+        "unit": "/app/year",
+        "display_in_project": true,
+        "display_on_web": true
+    },
+    {
+        "name": "Enterprise",
+        "key": "E",
+        "cost": 123678.88,
+        "currency": "RM",
+        "unit": "/10 apps/year",
+        "display_in_project": false,
+        "display_on_web": true
+    }
+]

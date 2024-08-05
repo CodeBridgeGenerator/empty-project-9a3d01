@@ -1,0 +1,8 @@
+[
+    {
+        "code": 2345432,
+        "applicable_discount": 50,
+        "type": "['amount','percentage']",
+        "status": false
+    }
+]

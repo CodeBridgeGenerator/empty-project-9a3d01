@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Private",
+        "description": "Git Hub repo privacy",
+        "value": true
+    },
+    {
+        "name": "Public",
+        "description": "GitHub Public Access",
+        "value": false
+    }
+]

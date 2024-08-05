@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Free trial",
+        "description": "14 day free trial",
+        "currency": "RM",
+        "unit": "days",
+        "amount": 0,
+        "applicable": "[\"P\"]",
+        "currency_code": "MYR",
+        "duration": 14,
+        "image": "../../../assets/icons/payasyougoIcon.png'"
+    },
+    {
+        "name": "Paid Trial",
+        "description": "30 day trial billed monthly",
+        "currency": "RM",
+        "unit": "month",
+        "amount": 128,
+        "applicable": "[\"P\"]",
+        "currency_code": "MYR",
+        "duration": 30
+    },
+    {
+        "name": "Pay as you Go",
+        "description": "monthly billing based on usage",
+        "currency": "RM",
+        "unit": "days",
+        "amount": 0,
+        "applicable": "[\"P\",\"C\"]",
+        "currency_code": "MYR",
+        "duration": 30
+    },
+    {
+        "name": "Dedicated - Tier 1",
+        "description": "for hosting a web application",
+        "currency": "RM",
+        "unit": "year",
+        "amount": 488.88,
+        "applicable": "[\"P\",\"C\"]",
+        "currency_code": "MYR",
+        "duration": 1
+    },
+    {
+        "name": "Dedicated - Tier 2",
+        "description": "for developers to host client application",
+        "currency": "RM",
+        "unit": "year",
+        "amount": 875.88,
+        "applicable": "[\"C\"]",
+        "currency_code": "MYR",
+        "duration": 1
+    },
+    {
+        "name": "Dedicated - Tier 3",
+        "description": "the enterprise grade application environment",
+        "currency": "RM",
+        "unit": "year",
+        "amount": 1645.88,
+        "applicable": "[\"C\"]",
+        "currency_code": "MYR",
+        "duration": 1
+    }
+]

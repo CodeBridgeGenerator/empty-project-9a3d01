@@ -1,0 +1,182 @@
+[
+    {
+        "name": "app1",
+        "url": "app1.apps.uat.codebridge.live",
+        "port": 5001,
+        "status": true
+    },
+    {
+        "name": "app2",
+        "url": "app2.apps.uat.codebridge.live",
+        "port": 5002,
+        "status": true
+    },
+    {
+        "name": "app3",
+        "url": "app3.apps.uat.codebridge.live",
+        "port": 5003,
+        "status": true
+    },
+    {
+        "name": "app4",
+        "url": "app4.apps.uat.codebridge.live",
+        "port": 5004,
+        "status": true
+    },
+    {
+        "name": "app5",
+        "url": "app5.apps.uat.codebridge.live",
+        "port": 5005,
+        "status": true
+    },
+    {
+        "name": "app6",
+        "url": "app6.apps.uat.codebridge.live",
+        "port": 5006,
+        "status": true
+    },
+    {
+        "name": "app7",
+        "url": "app7.apps.uat.codebridge.live",
+        "port": 5007,
+        "status": true
+    },
+    {
+        "name": "app8",
+        "url": "app8.apps.uat.codebridge.live",
+        "port": 5008,
+        "status": true
+    },
+    {
+        "name": "app9",
+        "url": "app9.apps.uat.codebridge.live",
+        "port": 5009,
+        "status": true
+    },
+    {
+        "name": "app10",
+        "url": "app10.apps.uat.codebridge.live",
+        "port": 5010,
+        "status": true
+    },
+    {
+        "name": "app11",
+        "url": "app11.apps.uat.codebridge.live",
+        "port": 5011,
+        "status": true
+    },
+    {
+        "name": "app12",
+        "url": "app12.apps.uat.codebridge.live",
+        "port": 5012,
+        "status": false
+    },
+    {
+        "name": "app13",
+        "url": "app13.apps.uat.codebridge.live",
+        "port": 5013,
+        "status": false
+    },
+    {
+        "name": "app14",
+        "url": "app14.apps.uat.codebridge.live",
+        "port": 5014,
+        "status": false
+    },
+    {
+        "name": "app15",
+        "url": "app15.apps.uat.codebridge.live",
+        "port": 5015,
+        "status": false
+    },
+    {
+        "name": "app16",
+        "url": "app16.apps.uat.codebridge.live",
+        "port": 5016,
+        "status": false
+    },
+    {
+        "name": "app17",
+        "url": "app17.apps.uat.codebridge.live",
+        "port": 5017,
+        "status": false
+    },
+    {
+        "name": "app18",
+        "url": "app18.apps.uat.codebridge.live",
+        "port": 5018,
+        "status": false
+    },
+    {
+        "name": "app19",
+        "url": "app19.apps.uat.codebridge.live",
+        "port": 5019,
+        "status": false
+    },
+    {
+        "name": "app20",
+        "url": "app20.apps.uat.codebridge.live",
+        "port": 5020,
+        "status": false
+    },
+    {
+        "name": "app21",
+        "url": "app21.apps.uat.codebridge.live",
+        "port": 5021,
+        "status": false
+    },
+    {
+        "name": "app22",
+        "url": "app22.apps.uat.codebridge.live",
+        "port": 5022,
+        "status": false
+    },
+    {
+        "name": "app23",
+        "url": "app23.apps.uat.codebridge.live",
+        "port": 5023,
+        "status": false
+    },
+    {
+        "name": "app24",
+        "url": "app24.apps.uat.codebridge.live",
+        "port": 5024,
+        "status": false
+    },
+    {
+        "name": "app25",
+        "url": "app25.apps.uat.codebridge.live",
+        "port": 5025,
+        "status": false
+    },
+    {
+        "name": "app26",
+        "url": "app26.apps.uat.codebridge.live",
+        "port": 5026,
+        "status": false
+    },
+    {
+        "name": "app27",
+        "url": "app27.apps.uat.codebridge.live",
+        "port": 5027,
+        "status": false
+    },
+    {
+        "name": "app28",
+        "url": "app28.apps.uat.codebridge.live",
+        "port": 5028,
+        "status": false
+    },
+    {
+        "name": "app29",
+        "url": "app29.apps.uat.codebridge.live",
+        "port": 5029,
+        "status": false
+    },
+    {
+        "name": "app30",
+        "url": "app30.apps.uat.codebridge.live",
+        "port": 5030,
+        "status": false
+    }
+]
